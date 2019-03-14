@@ -60,4 +60,3 @@ if (string === "I love you, Grandma.")
 
 
 
-
